@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/1573a470-4e41-4458-b29a-0640b64432b2)
+
+
 # AngularEcom
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
